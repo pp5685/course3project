@@ -1,0 +1,8 @@
+avg: final results containing average values for each acceleration of each subject with each activity.
+meanstd: extracted values that only contains mean vanlues and standard deviation values from the original dataset.
+overall: combined test and train dataset.
+train/test: train/test dataset.
+train/testlabel: labels of train/test dataset.
+train/testsubject: subject list of train/test dataset.
+varname: variable names aka names of all the accleration values.
+indx: index of mean and std values within varname, but also with index values of "subject" and "label" in the beginning so it's easier to read.
